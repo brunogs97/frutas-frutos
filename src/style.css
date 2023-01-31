@@ -35,3 +35,11 @@
     object-position: 0 70%;
     height: 200px;
 }
+
+.link-footer {
+    text-decoration: none;
+}
+
+.link-footer:hover {
+    text-decoration: underline;
+}
