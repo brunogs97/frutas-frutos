@@ -1,3 +1,7 @@
+.card {
+    width: 18rem;
+}
+
 .imagem-carrossel {
     object-fit: cover;
     object-position: 0 75%;
@@ -6,4 +10,28 @@
 
 .font-titulo {
     font-family: 'Pacifico', cursive;
+}
+
+.cor-especial {
+    color: darkred;
+}
+
+.botao-cor-especial {
+    background-color: darkred;
+    color: white;
+}
+
+.botao-cor-especial:hover {
+    background-color: darkred;
+    color: white;
+}
+
+.borda-cor-especial {
+    border-color: darkred;
+}
+
+.card-posicao-imagem {
+    object-fit: cover;
+    object-position: 0 70%;
+    height: 200px;
 }
